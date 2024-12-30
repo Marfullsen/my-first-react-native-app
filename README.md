@@ -1,6 +1,19 @@
-# Welcome to your Expo app 👋
+<div align="center">
+    <img src="./docs/img/hundred.png" alt="app icon" width="150">
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+
+# Welcome to my very first React-Native app 👋
+
+[![Expo Go](https://img.shields.io/badge/Expo%20Go-purple.svg?style=flat-square&logo=EXPO&labelColor=grey&logoColor=fff)](https://expo.dev/)
+
+This is a stickers app created to learn basics of React-Native using Expo.
+
+</div>
+
+<div align="center">
+    <img src="./docs/img/sticker_app.png" alt="app screenshot">
+</div>
+
 
 ## Get started
 
@@ -41,6 +54,10 @@ To learn more about developing your project with Expo, look at the following res
 
 - [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
 - [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+
+<div align="center">
+    <img src="./docs/img/expo_tutorial.png" alt="tutorial content" width="220">
+</div>
 
 ## Join the community
 
